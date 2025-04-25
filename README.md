@@ -1,1 +1,1 @@
-# GW2-SYTool
+# SYTool
